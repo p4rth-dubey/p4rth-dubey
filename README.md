@@ -23,5 +23,3 @@ I'm currently working on Study OS <br>I'm currently learning AI /ML<br>I'm a vid
 ---
 
 [![](https://komarev.com/ghpvc/?username=p4rth-dubey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
